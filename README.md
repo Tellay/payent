@@ -32,8 +32,10 @@ $ git clone https://github.com/Tellay/payent && cd payent
 ```
 
 ```bash
-# Install the dependencies and run the database
+# Install the dependencies, do the same in front-end folder
 $ npm install
+
+# Run the back-end and Discord bot
 $ node .
 
 # Run the front-end side
