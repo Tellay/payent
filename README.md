@@ -4,7 +4,7 @@
 
 ## Payent
 [![Author](https://img.shields.io/badge/author-tellay-7289DA?style=flat-square)](https://github.com/tellay)
-<h4>Payent is just a simple test, it has an API and a front-end website made with React, also this has a discord connection. I intend to continue updating the project!</h4>
+<h4>Payent is just a simple test, it has an API and a front-end website made with React, also this has a Discord connection. I intend to continue updating the project!</h4>
 
 ## Tecnologies
 
