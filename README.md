@@ -32,7 +32,7 @@ $ git clone https://github.com/Tellay/payent && cd payent
 ```
 
 ```bash
-# Install the dependencies
+# Install the dependencies and run the database
 $ npm install
 $ node .
 
