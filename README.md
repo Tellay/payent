@@ -15,8 +15,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Technologies used" width="40">
 </div>
 
-- [ReactJS](https://reactjs.org/)
+- [ReactJS](https://reactjs.org)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [MongoDB](https://www.mongodb.com)
 
 ## 💻 Getting started
 
